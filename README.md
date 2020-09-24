@@ -6,7 +6,7 @@
 ### Ссылки
 Чат в telegram: https://t.me/joinchat/DEBCqh3GZoWaCC8qhYLw1g
 
-Anytask курса (скоро появится)
+[Anytask курса](https://anytask.org/course/751) (инвайт 1hgezx4)
 
 ### Правила выставления оценок
 В курсе предусмотрено несколько форм контроля знания:
