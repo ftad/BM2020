@@ -51,6 +51,9 @@ __Занятие 4. Методы Markov Chain Monte Carlo__
 * [Презентация](https://github.com/ftad/BM2020/blob/master/materials/presentation_MCMC_ftad.pdf)
 * [__Задание для самостоятельной работы__](https://github.com/ftad/BM2020/blob/master/materials/homework_BNN.pdf)
 
+__Занятие 5. Гауссовские процессы и байесовская оптимизация__
+* [Презентация](https://github.com/ftad/BM2020/blob/master/materials/presentation_GP_ftad.pdf)
+
 ### Задания
 * [Задание по байесовской линейной регрессии](https://github.com/ftad/BM2020/blob/master/materials/Task_BLR.ipynb). Дедлайн: 23:59 29.09.20.
 
