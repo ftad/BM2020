@@ -60,7 +60,7 @@ __Занятие 6. Модели с латентными переменными 
 
 ### Задания
 * [Задание по байесовской линейной регрессии](https://github.com/ftad/BM2020/blob/master/materials/Task_BLR.ipynb). Дедлайн: 23:59 29.09.20.
-* [Задание по EM-алгоритму](https://github.com/ftad/BM2020/blob/master/materials/Task_EM.ipynb). Дедлайн: 23:59 24.10.2020.
+* [Задание по EM-алгоритму](https://github.com/ftad/BM2020/blob/master/materials/Task_EM.ipynb). Дедлайн: 23:59 24.10.2020 (жесткий)
 
 ### Полезные материалы
 Книги:
