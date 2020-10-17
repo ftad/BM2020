@@ -60,6 +60,9 @@ __Занятие 6. Модели с латентными переменными 
 * [Презентация](https://github.com/ftad/BM2020/blob/master/materials/presentation_EM_ftad.pdf)
 * [__Задание для самостоятельной работы__](https://github.com/ftad/BM2020/blob/master/materials/homework_EM.pdf)
 
+__Занятие 7. Вариационные автокодировщики__
+* [Презентация](https://github.com/ftad/BM2020/blob/master/materials/presentation_VAE_ftad.pdf)
+
 ### Задания
 * [Задание по байесовской линейной регрессии](https://github.com/ftad/BM2020/blob/master/materials/Task_BLR.ipynb). Дедлайн: 23:59 29.09.20.
 * [Задание по EM-алгоритму](https://github.com/ftad/BM2020/blob/master/materials/Task_EM.ipynb). Дедлайн: 23:59 24.10.2020 (жесткий)
